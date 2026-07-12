@@ -257,6 +257,47 @@ footer {
     font-size: 35px;
     margin-bottom: 30px;
 }
+/* Mobile Responsive */
+
+@media (max-width: 768px) {
+
+    body {
+        font-size: 16px;
+    }
+
+    header {
+        padding: 20px;
+        text-align: center;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .container {
+        width: 90%;
+        margin: auto;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
 
 .service-container {
     display: flex;
