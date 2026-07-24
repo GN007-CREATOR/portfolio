@@ -159,8 +159,10 @@ section {
     padding: 60px 0;
 }
 
-.about, .contact {
-    background: #f8fafc;
+.about,
+.contact {
+    background: #111827;
+    color: #e5e7eb;
 }
 
 /* Responsive Design - Mission 8 */
@@ -220,7 +222,8 @@ footer {
 .services {
     padding: 50px 20px;
     text-align: center;
-    background: #f8fafc;
+    background: #111827;
+    color: #e5e7eb;
 }
 
 .services h2 {
@@ -320,7 +323,8 @@ footer {
 .services {
     padding: 50px 20px;
     text-align: center;
-    background: #f8fafc;
+    background: #111827;
+    color: #e5e7eb;
 }
 
 .services h2 {
